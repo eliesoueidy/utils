@@ -19,3 +19,5 @@ function rm () {
     fi
   done
 }
+
+source ~/.git-completion.bash
