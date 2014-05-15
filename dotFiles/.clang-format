@@ -19,7 +19,7 @@ ColumnLimit:     80
 ConstructorInitializerAllOnOneLineOrOnePerLine: false
 DerivePointerBinding: false
 ExperimentalAutoDetectBinPacking: false
-IndentCaseLabels: false
+IndentCaseLabels: true
 Language: Cpp
 MaxEmptyLinesToKeep: 1
 NamespaceIndentation: None
