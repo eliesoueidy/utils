@@ -1,7 +1,7 @@
 #based on: https://github.com/garybernhardt/dotfiles/blob/master/.gitconfig
 [user]
     name = Elie Soueidy
-    email = elie.soueidy@keeward.com
+    email = elie.soueidy@gmail.com
 [diff]
 [color]
     ui = auto
