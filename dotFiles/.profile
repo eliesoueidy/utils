@@ -3,6 +3,7 @@ PS1="\[\e[32;1m\](\[\e[34;1m\] \u \[\e[32;1m\])-(\[\e[31;1m\]jobs:\j\[\e[32;1m\]
 alias ls='ls -G'
 alias ll='ls -lh'
 alias pod='pod --verbose'
+alias dockerclean='docker rmi $(docker images -f "dangling=true" -q)'
 
 #to put files in Trash instead of permanently deleting them
 function rm () {
